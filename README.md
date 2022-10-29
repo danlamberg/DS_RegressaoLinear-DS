@@ -2,7 +2,7 @@
 
 Exercícios:
 
-# Faça um filtro por uma cidade específica e teste a normalidade na coluna coluna de NOTA_REDACAO (qqplot e teste de hipótese).</br>
+Faça um filtro por uma cidade específica e teste a normalidade na coluna coluna de NOTA_REDACAO (qqplot e teste de hipótese).</br>
 Caso a distribuição não seja normal, retire as notas 0 e teste novamente.</br>
 Caso ainda o p-valor não for maior que 0.05 faça um filtro pelo código de uma escola dessa cidade</br>
 Para ter uma maior variabilidade teste o conjunto em cidades com mais de 40 entradas.</br>
